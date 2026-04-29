@@ -1,9 +1,9 @@
-Daanveer – Support & Help
+Danvirs – Support & Help
 
-Welcome to Daanveer, a platform designed to connect donors and volunteers to facilitate seamless donation activities and help those in need.
+Welcome to Danvirs, a platform designed to connect donors and volunteers to facilitate seamless donation activities and help those in need.
 
 About the App:
-Daanveer enables users to create donation requests, connect with nearby volunteers, and coordinate pickups efficiently. The app supports real-time communication, notifications, and optional document/image uploads for verification purposes.
+Danvirs enables users to create donation requests, connect with nearby volunteers, and coordinate pickups efficiently. The app supports real-time communication, notifications, and optional document/image uploads for verification purposes.
 
 Key Features:
 
@@ -37,4 +37,4 @@ Permissions Used:
 Privacy & Security:
 We take user privacy seriously. Any data shared within the app is used only for facilitating donation activities and improving user experience. Sensitive information is handled securely.
 
-Thank you for using Daanveer and for being a part of making a positive impact.
+Thank you for using Danvirs and for being a part of making a positive impact.
